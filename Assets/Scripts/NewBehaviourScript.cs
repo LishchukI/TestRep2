@@ -8,7 +8,11 @@ public class NewBehaviourScript : MonoBehaviour
     void Start()
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         Debug.Log("wet");
+=======
+        
+>>>>>>> parent of 7c04199 (2)
 =======
         
 >>>>>>> parent of 7c04199 (2)
